@@ -1,4 +1,4 @@
 # SkinShortCutTVOSFix
-Problem with skins not working on TVOS with Kodi, Downgrading version to 1.1.5
-Apple TV 4K with Kodi Installed problem with using skins, skinshortcut error fixed with downgrading.
-Must downgrade and uninstall previous version. 
+SkinShortCut error with TVOS and Kodi 19.4 Matrix
+This is a downgraded version of SkinShortCut so you can use skins on 19.* Matrix Kodi on Apple TV without freezing or crashing.
+Just install by adding repo dotdon.github.io installing zip and uninstalling previous version.
